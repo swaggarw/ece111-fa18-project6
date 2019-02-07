@@ -1,0 +1,13 @@
+Work Function for Project 6
+
+LUT Utilization : 3.35% (1783)
+LUTRAM Utilization: 0.55% (96)
+FF Utilization: 0.74% (784)
+
+Minimum Clock Cycle: 21 ns
+
+Power Consumption: 0.137W
+
+Total clock cycles for execution = 152 clock cycles (1 reset + 151 execution)
+
+Cost Function = (3.35+0.74) x (21 ns) x (152) x 0.137 = 1788.57336 nJ
